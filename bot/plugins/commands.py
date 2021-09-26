@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/KOTBOTS/KOT-FILTER-BOT')
     
-        InlineKeyboardButton('Support 🛠', url='https://t.me/KOT_REPORS')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/KOT_FREE_DE_LA_HOYA_OFF')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
